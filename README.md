@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenido a Omind sex 
 
-You can use the [editor on GitHub](https://github.com/Mariamapa/Omind.sex/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Nos alegra que estes aqui, para comenzar te queremos dar a conocer el problema en el que nos basamos: la falta de educación y compresión de la sexualidad, los tabúes, los frenos sociales, el limitado o nulo acceso a servicios de salud sexual y reproductiva, son algunos de los factores que impulsan poderosamente un dramático desenlace en las sociedades, una de las consecuencias son el incremento de la  tasa de embarazos adolescentes a nivel mundial, el peligro de contraer alguna ITS, sin mencionar los problemas de salud que podrían llegar a presentar las personas, ya que no saben como alzar la voz y hablar sin tabúes, el explicarle a las  generaciones lo que está bien y lo que está mal, asi como el poder recalcarles sus derechos y que tienen el derecho a decidir sobre su cuerpo. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ¿Cómo fuinciona la página? 
+En la barra de conocete 
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +29,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mariamapa/Omind.sex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contactactate con nosotros en
+
+¿Tienes dudas? Comunicate con nostros [Facebook](https://www.facebook.com/lupita.mapa/) o [Instagram] (https://www.instagram.com/lupita_mapa/)

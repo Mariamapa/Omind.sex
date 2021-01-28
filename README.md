@@ -6,7 +6,7 @@ Nos alegra que estes aqui, para comenzar te queremos dar a conocer el problema e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### ¿Cómo fuinciona la página? 
-En la barra de conocete 
+
 
 ```markdown
 
